@@ -1,5 +1,5 @@
 ### I am assuming that the folder /UCI HAR Dataset was downloaded, unzipped, and
-### stored locally in the local directory. 
+### stored locally. 
 
 ### check that the current directory contains the desired data file
 if(!is.element("UCI HAR Dataset",list.files()))
